@@ -7,7 +7,7 @@ pkgdesc="Crystal Linux Wallpaper Images"
 arch=('any')
 url="https://git.tar.black/crystal/wallpapers"
 license=('GPL')
-source=('')
+source=()
 depends=()
 conflicts=()
 md5sums=()
@@ -15,6 +15,6 @@ md5sums=()
 package() {
 
     mkdir -p "${pkgdir}/usr/share/backgrounds/crystal"
-    cp -rv *.jpg "${pkgdir}//usr/share/backgrounds/crystal/."
+    cp -rv ../*.jpg  ../*.png ../*.svg "${pkgdir}/usr/share/backgrounds/crystal/."
     
 }
