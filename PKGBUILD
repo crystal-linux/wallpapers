@@ -1,7 +1,7 @@
 # Maintainer: Matt C <mdc028[at]bucknell[dot]edu>
 
 pkgname=crystal-wallpapers
-pkgver=1.0.2
+pkgver=1.0.3
 pkgrel=1
 pkgdesc="Crystal Linux Wallpaper Images"
 arch=('any')
