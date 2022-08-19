@@ -2,7 +2,7 @@
 
 pkgname=crystal-wallpapers
 pkgver=1.0.3
-pkgrel=1
+pkgrel=2
 pkgdesc="Crystal Linux Wallpaper Images"
 arch=('any')
 url="https://git.tar.black/crystal/wallpapers"
