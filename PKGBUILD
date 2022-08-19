@@ -15,6 +15,6 @@ md5sums=()
 package() {
 
     mkdir -p "${pkgdir}/usr/share/backgrounds/crystal"
-    cp -rv ../*.jpg  ../*.png ../*.svg "${pkgdir}/usr/share/backgrounds/crystal/."
+    cp -rv ../*.png ../*.svg "${pkgdir}/usr/share/backgrounds/crystal/."
     
 }
