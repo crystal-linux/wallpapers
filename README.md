@@ -20,11 +20,4 @@ The official Crystal Linux wallpapers.
 </p>
 
 # Attributions
-- Paweł Czerwiński
-- Israel Pina
-- Bruno Thethe
-- @hericiumvevo 
-- Luca Micheli
-- Sebastian Svenson
-- Sandro Katalina
-- @onebeneone 
+-  <a href="https://twitter.com/hericiumvevo">@hericiumvevo</a>
