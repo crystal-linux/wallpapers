@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Crystal Blob Light</name>
+    <filename>/usr/share/backgrounds/crystal/crystal-blob\ light.png</filename>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Crystal Blob Dark</name>
+    <filename>/usr/share/backgrounds/crystal/crystal-blob.png</filename>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Crystal Waves Horizontal</name>
+    <filename>/usr/share/backgrounds/crystal/crystal-waves-horizontal.png</filename>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Crystal Waves Vertical</name>
+    <filename>/usr/share/backgrounds/crystal/crystal-waves-vertical.png</filename>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Crystal Gaypaper</name>
+    <filename>/usr/share/backgrounds/crystal/gaypaper.png</filename>
+  </wallpaper>
+</wallpapers>
